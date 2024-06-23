@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 // Import chalk
 import chalk from "chalk";
 // Import inquirer
